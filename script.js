@@ -5,9 +5,9 @@ $(document).ready(function () {
 
     // Slider
     const images = [
-        'pocitac1.jpg',
-        'pocitac2.jpg',
-        'pocitac3.jpg'
+        'mojastrankaTechFix/pocitac1.jpg',
+        'mojastrankaTechFix/pocitac2.jpg',
+        'mojastrankaTechFix/pocitac3.jpg'
     ];
     let index = 0;
 
