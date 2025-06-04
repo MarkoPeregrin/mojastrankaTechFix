@@ -5,9 +5,9 @@ $(document).ready(function () {
 
     // Slider
     const images = [
-        'images/pocitac1.jpg',
-        'images/pocitac2.jpg',
-        'images/pocitac3.jpg'
+        'pocitac1.jpg',
+        'pocitac2.jpg',
+        'pocitac3.jpg'
     ];
     let index = 0;
 
